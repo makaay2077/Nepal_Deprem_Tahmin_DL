@@ -1,0 +1,950 @@
+ward_id,vdcmun_id,vdcmun_name,district_id,district_name
+120101,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120102,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120103,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120104,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120105,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120106,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120107,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120108,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120109,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120110,1201,Champadevi Rural Municipality,12,Okhaldhunga
+120201,1202,Chishankhu Gadhi Rural Municipality,12,Okhaldhunga
+120202,1202,Chishankhu Gadhi Rural Municipality,12,Okhaldhunga
+120203,1202,Chishankhu Gadhi Rural Municipality,12,Okhaldhunga
+120204,1202,Chishankhu Gadhi Rural Municipality,12,Okhaldhunga
+120205,1202,Chishankhu Gadhi Rural Municipality,12,Okhaldhunga
+120206,1202,Chishankhu Gadhi Rural Municipality,12,Okhaldhunga
+120207,1202,Chishankhu Gadhi Rural Municipality,12,Okhaldhunga
+120208,1202,Chishankhu Gadhi Rural Municipality,12,Okhaldhunga
+120301,1203,Khiji Demba Rural Municipality,12,Okhaldhunga
+120302,1203,Khiji Demba Rural Municipality,12,Okhaldhunga
+120303,1203,Khiji Demba Rural Municipality,12,Okhaldhunga
+120304,1203,Khiji Demba Rural Municipality,12,Okhaldhunga
+120305,1203,Khiji Demba Rural Municipality,12,Okhaldhunga
+120306,1203,Khiji Demba Rural Municipality,12,Okhaldhunga
+120307,1203,Khiji Demba Rural Municipality,12,Okhaldhunga
+120308,1203,Khiji Demba Rural Municipality,12,Okhaldhunga
+120309,1203,Khiji Demba Rural Municipality,12,Okhaldhunga
+120401,1204,Likhu Rural Municipality,12,Okhaldhunga
+120402,1204,Likhu Rural Municipality,12,Okhaldhunga
+120403,1204,Likhu Rural Municipality,12,Okhaldhunga
+120404,1204,Likhu Rural Municipality,12,Okhaldhunga
+120405,1204,Likhu Rural Municipality,12,Okhaldhunga
+120406,1204,Likhu Rural Municipality,12,Okhaldhunga
+120407,1204,Likhu Rural Municipality,12,Okhaldhunga
+120408,1204,Likhu Rural Municipality,12,Okhaldhunga
+120409,1204,Likhu Rural Municipality,12,Okhaldhunga
+120501,1205,Manebhanjyang Rural Municipality,12,Okhaldhunga
+120502,1205,Manebhanjyang Rural Municipality,12,Okhaldhunga
+120503,1205,Manebhanjyang Rural Municipality,12,Okhaldhunga
+120504,1205,Manebhanjyang Rural Municipality,12,Okhaldhunga
+120505,1205,Manebhanjyang Rural Municipality,12,Okhaldhunga
+120506,1205,Manebhanjyang Rural Municipality,12,Okhaldhunga
+120507,1205,Manebhanjyang Rural Municipality,12,Okhaldhunga
+120508,1205,Manebhanjyang Rural Municipality,12,Okhaldhunga
+120509,1205,Manebhanjyang Rural Municipality,12,Okhaldhunga
+120601,1206,Molung Rural Municipality,12,Okhaldhunga
+120602,1206,Molung Rural Municipality,12,Okhaldhunga
+120603,1206,Molung Rural Municipality,12,Okhaldhunga
+120604,1206,Molung Rural Municipality,12,Okhaldhunga
+120605,1206,Molung Rural Municipality,12,Okhaldhunga
+120606,1206,Molung Rural Municipality,12,Okhaldhunga
+120607,1206,Molung Rural Municipality,12,Okhaldhunga
+120608,1206,Molung Rural Municipality,12,Okhaldhunga
+120701,1207,Siddhicharan Municipality,12,Okhaldhunga
+120702,1207,Siddhicharan Municipality,12,Okhaldhunga
+120703,1207,Siddhicharan Municipality,12,Okhaldhunga
+120704,1207,Siddhicharan Municipality,12,Okhaldhunga
+120705,1207,Siddhicharan Municipality,12,Okhaldhunga
+120706,1207,Siddhicharan Municipality,12,Okhaldhunga
+120707,1207,Siddhicharan Municipality,12,Okhaldhunga
+120708,1207,Siddhicharan Municipality,12,Okhaldhunga
+120709,1207,Siddhicharan Municipality,12,Okhaldhunga
+120710,1207,Siddhicharan Municipality,12,Okhaldhunga
+120711,1207,Siddhicharan Municipality,12,Okhaldhunga
+120712,1207,Siddhicharan Municipality,12,Okhaldhunga
+120801,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+120802,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+120803,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+120804,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+120805,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+120806,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+120807,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+120808,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+120809,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+120810,1208,Sunkoshi Rural Municipality,12,Okhaldhunga
+200101,2001,Dudhouli Municipality,20,Sindhuli
+200102,2001,Dudhouli Municipality,20,Sindhuli
+200103,2001,Dudhouli Municipality,20,Sindhuli
+200104,2001,Dudhouli Municipality,20,Sindhuli
+200105,2001,Dudhouli Municipality,20,Sindhuli
+200106,2001,Dudhouli Municipality,20,Sindhuli
+200107,2001,Dudhouli Municipality,20,Sindhuli
+200108,2001,Dudhouli Municipality,20,Sindhuli
+200109,2001,Dudhouli Municipality,20,Sindhuli
+200110,2001,Dudhouli Municipality,20,Sindhuli
+200111,2001,Dudhouli Municipality,20,Sindhuli
+200112,2001,Dudhouli Municipality,20,Sindhuli
+200113,2001,Dudhouli Municipality,20,Sindhuli
+200114,2001,Dudhouli Municipality,20,Sindhuli
+200201,2002,Ghyanglekha Rural Municipality,20,Sindhuli
+200202,2002,Ghyanglekha Rural Municipality,20,Sindhuli
+200203,2002,Ghyanglekha Rural Municipality,20,Sindhuli
+200204,2002,Ghyanglekha Rural Municipality,20,Sindhuli
+200205,2002,Ghyanglekha Rural Municipality,20,Sindhuli
+200301,2003,Golanjor Rural Municipality,20,Sindhuli
+200302,2003,Golanjor Rural Municipality,20,Sindhuli
+200303,2003,Golanjor Rural Municipality,20,Sindhuli
+200304,2003,Golanjor Rural Municipality,20,Sindhuli
+200305,2003,Golanjor Rural Municipality,20,Sindhuli
+200306,2003,Golanjor Rural Municipality,20,Sindhuli
+200307,2003,Golanjor Rural Municipality,20,Sindhuli
+200401,2004,Hariharpurgaghi Rural Municipality,20,Sindhuli
+200402,2004,Hariharpurgaghi Rural Municipality,20,Sindhuli
+200403,2004,Hariharpurgaghi Rural Municipality,20,Sindhuli
+200404,2004,Hariharpurgaghi Rural Municipality,20,Sindhuli
+200405,2004,Hariharpurgaghi Rural Municipality,20,Sindhuli
+200406,2004,Hariharpurgaghi Rural Municipality,20,Sindhuli
+200407,2004,Hariharpurgaghi Rural Municipality,20,Sindhuli
+200408,2004,Hariharpurgaghi Rural Municipality,20,Sindhuli
+200501,2005,Kamalamai Municipality,20,Sindhuli
+200502,2005,Kamalamai Municipality,20,Sindhuli
+200503,2005,Kamalamai Municipality,20,Sindhuli
+200504,2005,Kamalamai Municipality,20,Sindhuli
+200505,2005,Kamalamai Municipality,20,Sindhuli
+200506,2005,Kamalamai Municipality,20,Sindhuli
+200507,2005,Kamalamai Municipality,20,Sindhuli
+200508,2005,Kamalamai Municipality,20,Sindhuli
+200509,2005,Kamalamai Municipality,20,Sindhuli
+200510,2005,Kamalamai Municipality,20,Sindhuli
+200511,2005,Kamalamai Municipality,20,Sindhuli
+200512,2005,Kamalamai Municipality,20,Sindhuli
+200513,2005,Kamalamai Municipality,20,Sindhuli
+200514,2005,Kamalamai Municipality,20,Sindhuli
+200601,2006,Marin Rural Municipality,20,Sindhuli
+200602,2006,Marin Rural Municipality,20,Sindhuli
+200603,2006,Marin Rural Municipality,20,Sindhuli
+200604,2006,Marin Rural Municipality,20,Sindhuli
+200605,2006,Marin Rural Municipality,20,Sindhuli
+200606,2006,Marin Rural Municipality,20,Sindhuli
+200608,2006,Marin Rural Municipality,20,Sindhuli
+200701,2007,Phikkal Rural Municipality,20,Sindhuli
+200702,2007,Phikkal Rural Municipality,20,Sindhuli
+200703,2007,Phikkal Rural Municipality,20,Sindhuli
+200704,2007,Phikkal Rural Municipality,20,Sindhuli
+200705,2007,Phikkal Rural Municipality,20,Sindhuli
+200706,2007,Phikkal Rural Municipality,20,Sindhuli
+200801,2008,Sunkoshi Rural Municipality,20,Sindhuli
+200802,2008,Sunkoshi Rural Municipality,20,Sindhuli
+200803,2008,Sunkoshi Rural Municipality,20,Sindhuli
+200804,2008,Sunkoshi Rural Municipality,20,Sindhuli
+200805,2008,Sunkoshi Rural Municipality,20,Sindhuli
+200806,2008,Sunkoshi Rural Municipality,20,Sindhuli
+200807,2008,Sunkoshi Rural Municipality,20,Sindhuli
+200901,2009,Tinpatan Rural Municipality,20,Sindhuli
+200902,2009,Tinpatan Rural Municipality,20,Sindhuli
+200903,2009,Tinpatan Rural Municipality,20,Sindhuli
+200904,2009,Tinpatan Rural Municipality,20,Sindhuli
+200905,2009,Tinpatan Rural Municipality,20,Sindhuli
+200906,2009,Tinpatan Rural Municipality,20,Sindhuli
+200907,2009,Tinpatan Rural Municipality,20,Sindhuli
+200908,2009,Tinpatan Rural Municipality,20,Sindhuli
+200909,2009,Tinpatan Rural Municipality,20,Sindhuli
+200910,2009,Tinpatan Rural Municipality,20,Sindhuli
+200911,2009,Tinpatan Rural Municipality,20,Sindhuli
+210101,2101,Doramba Rural Municipality,21,Ramechhap
+210102,2101,Doramba Rural Municipality,21,Ramechhap
+210103,2101,Doramba Rural Municipality,21,Ramechhap
+210104,2101,Doramba Rural Municipality,21,Ramechhap
+210105,2101,Doramba Rural Municipality,21,Ramechhap
+210106,2101,Doramba Rural Municipality,21,Ramechhap
+210107,2101,Doramba Rural Municipality,21,Ramechhap
+210201,2102,Gokulganga Rural Municipality,21,Ramechhap
+210202,2102,Gokulganga Rural Municipality,21,Ramechhap
+210203,2102,Gokulganga Rural Municipality,21,Ramechhap
+210204,2102,Gokulganga Rural Municipality,21,Ramechhap
+210205,2102,Gokulganga Rural Municipality,21,Ramechhap
+210206,2102,Gokulganga Rural Municipality,21,Ramechhap
+210301,2103,Khandadevi Rural Municipality,21,Ramechhap
+210302,2103,Khandadevi Rural Municipality,21,Ramechhap
+210303,2103,Khandadevi Rural Municipality,21,Ramechhap
+210304,2103,Khandadevi Rural Municipality,21,Ramechhap
+210305,2103,Khandadevi Rural Municipality,21,Ramechhap
+210306,2103,Khandadevi Rural Municipality,21,Ramechhap
+210307,2103,Khandadevi Rural Municipality,21,Ramechhap
+210308,2103,Khandadevi Rural Municipality,21,Ramechhap
+210309,2103,Khandadevi Rural Municipality,21,Ramechhap
+210401,2104,Likhu Tamakoshi Rural Municipality,21,Ramechhap
+210402,2104,Likhu Tamakoshi Rural Municipality,21,Ramechhap
+210403,2104,Likhu Tamakoshi Rural Municipality,21,Ramechhap
+210404,2104,Likhu Tamakoshi Rural Municipality,21,Ramechhap
+210405,2104,Likhu Tamakoshi Rural Municipality,21,Ramechhap
+210406,2104,Likhu Tamakoshi Rural Municipality,21,Ramechhap
+210407,2104,Likhu Tamakoshi Rural Municipality,21,Ramechhap
+210501,2105,Manthali  Municipality,21,Ramechhap
+210502,2105,Manthali  Municipality,21,Ramechhap
+210503,2105,Manthali  Municipality,21,Ramechhap
+210504,2105,Manthali  Municipality,21,Ramechhap
+210505,2105,Manthali  Municipality,21,Ramechhap
+210506,2105,Manthali  Municipality,21,Ramechhap
+210507,2105,Manthali  Municipality,21,Ramechhap
+210508,2105,Manthali  Municipality,21,Ramechhap
+210509,2105,Manthali  Municipality,21,Ramechhap
+210510,2105,Manthali  Municipality,21,Ramechhap
+210511,2105,Manthali  Municipality,21,Ramechhap
+210512,2105,Manthali  Municipality,21,Ramechhap
+210513,2105,Manthali  Municipality,21,Ramechhap
+210514,2105,Manthali  Municipality,21,Ramechhap
+210601,2106,Ramechhap Municipality,21,Ramechhap
+210602,2106,Ramechhap Municipality,21,Ramechhap
+210603,2106,Ramechhap Municipality,21,Ramechhap
+210604,2106,Ramechhap Municipality,21,Ramechhap
+210605,2106,Ramechhap Municipality,21,Ramechhap
+210606,2106,Ramechhap Municipality,21,Ramechhap
+210607,2106,Ramechhap Municipality,21,Ramechhap
+210608,2106,Ramechhap Municipality,21,Ramechhap
+210609,2106,Ramechhap Municipality,21,Ramechhap
+210701,2107,Sunapati Rural Municipality,21,Ramechhap
+210702,2107,Sunapati Rural Municipality,21,Ramechhap
+210703,2107,Sunapati Rural Municipality,21,Ramechhap
+210704,2107,Sunapati Rural Municipality,21,Ramechhap
+210705,2107,Sunapati Rural Municipality,21,Ramechhap
+210801,2108,Umakunda Rural Municipality,21,Ramechhap
+210802,2108,Umakunda Rural Municipality,21,Ramechhap
+210803,2108,Umakunda Rural Municipality,21,Ramechhap
+210804,2108,Umakunda Rural Municipality,21,Ramechhap
+210805,2108,Umakunda Rural Municipality,21,Ramechhap
+210806,2108,Umakunda Rural Municipality,21,Ramechhap
+210807,2108,Umakunda Rural Municipality,21,Ramechhap
+220101,2201,Baitedhar Rural Municipality,22,Dolakha
+220102,2201,Baitedhar Rural Municipality,22,Dolakha
+220103,2201,Baitedhar Rural Municipality,22,Dolakha
+220104,2201,Baitedhar Rural Municipality,22,Dolakha
+220105,2201,Baitedhar Rural Municipality,22,Dolakha
+220106,2201,Baitedhar Rural Municipality,22,Dolakha
+220107,2201,Baitedhar Rural Municipality,22,Dolakha
+220108,2201,Baitedhar Rural Municipality,22,Dolakha
+220201,2202,Bhimeshwor Municipality,22,Dolakha
+220202,2202,Bhimeshwor Municipality,22,Dolakha
+220203,2202,Bhimeshwor Municipality,22,Dolakha
+220204,2202,Bhimeshwor Municipality,22,Dolakha
+220205,2202,Bhimeshwor Municipality,22,Dolakha
+220206,2202,Bhimeshwor Municipality,22,Dolakha
+220207,2202,Bhimeshwor Municipality,22,Dolakha
+220208,2202,Bhimeshwor Municipality,22,Dolakha
+220209,2202,Bhimeshwor Municipality,22,Dolakha
+220301,2203,Bigu Rural Municipality,22,Dolakha
+220302,2203,Bigu Rural Municipality,22,Dolakha
+220303,2203,Bigu Rural Municipality,22,Dolakha
+220304,2203,Bigu Rural Municipality,22,Dolakha
+220305,2203,Bigu Rural Municipality,22,Dolakha
+220306,2203,Bigu Rural Municipality,22,Dolakha
+220307,2203,Bigu Rural Municipality,22,Dolakha
+220308,2203,Bigu Rural Municipality,22,Dolakha
+220401,2204,Gaurishankar Rural Municipality,22,Dolakha
+220402,2204,Gaurishankar Rural Municipality,22,Dolakha
+220403,2204,Gaurishankar Rural Municipality,22,Dolakha
+220404,2204,Gaurishankar Rural Municipality,22,Dolakha
+220405,2204,Gaurishankar Rural Municipality,22,Dolakha
+220406,2204,Gaurishankar Rural Municipality,22,Dolakha
+220407,2204,Gaurishankar Rural Municipality,22,Dolakha
+220408,2204,Gaurishankar Rural Municipality,22,Dolakha
+220409,2204,Gaurishankar Rural Municipality,22,Dolakha
+220501,2205,Jiri Municipality,22,Dolakha
+220502,2205,Jiri Municipality,22,Dolakha
+220503,2205,Jiri Municipality,22,Dolakha
+220504,2205,Jiri Municipality,22,Dolakha
+220505,2205,Jiri Municipality,22,Dolakha
+220506,2205,Jiri Municipality,22,Dolakha
+220507,2205,Jiri Municipality,22,Dolakha
+220508,2205,Jiri Municipality,22,Dolakha
+220509,2205,Jiri Municipality,22,Dolakha
+220601,2206,Kalinchowk Rural Municipality,22,Dolakha
+220602,2206,Kalinchowk Rural Municipality,22,Dolakha
+220603,2206,Kalinchowk Rural Municipality,22,Dolakha
+220604,2206,Kalinchowk Rural Municipality,22,Dolakha
+220605,2206,Kalinchowk Rural Municipality,22,Dolakha
+220606,2206,Kalinchowk Rural Municipality,22,Dolakha
+220607,2206,Kalinchowk Rural Municipality,22,Dolakha
+220608,2206,Kalinchowk Rural Municipality,22,Dolakha
+220609,2206,Kalinchowk Rural Municipality,22,Dolakha
+220701,2207,Melung Rural Municipality,22,Dolakha
+220702,2207,Melung Rural Municipality,22,Dolakha
+220703,2207,Melung Rural Municipality,22,Dolakha
+220704,2207,Melung Rural Municipality,22,Dolakha
+220705,2207,Melung Rural Municipality,22,Dolakha
+220706,2207,Melung Rural Municipality,22,Dolakha
+220707,2207,Melung Rural Municipality,22,Dolakha
+220801,2208,Shailung Rural Municipality,22,Dolakha
+220802,2208,Shailung Rural Municipality,22,Dolakha
+220803,2208,Shailung Rural Municipality,22,Dolakha
+220804,2208,Shailung Rural Municipality,22,Dolakha
+220805,2208,Shailung Rural Municipality,22,Dolakha
+220806,2208,Shailung Rural Municipality,22,Dolakha
+220807,2208,Shailung Rural Municipality,22,Dolakha
+220808,2208,Shailung Rural Municipality,22,Dolakha
+220901,2209,Tamakoshi Rural Municipality,22,Dolakha
+220902,2209,Tamakoshi Rural Municipality,22,Dolakha
+220903,2209,Tamakoshi Rural Municipality,22,Dolakha
+220904,2209,Tamakoshi Rural Municipality,22,Dolakha
+220905,2209,Tamakoshi Rural Municipality,22,Dolakha
+220906,2209,Tamakoshi Rural Municipality,22,Dolakha
+220907,2209,Tamakoshi Rural Municipality,22,Dolakha
+230101,2301,Bahrabise Municipality,23,Sindhupalchok
+230102,2301,Bahrabise Municipality,23,Sindhupalchok
+230103,2301,Bahrabise Municipality,23,Sindhupalchok
+230104,2301,Bahrabise Municipality,23,Sindhupalchok
+230105,2301,Bahrabise Municipality,23,Sindhupalchok
+230106,2301,Bahrabise Municipality,23,Sindhupalchok
+230107,2301,Bahrabise Municipality,23,Sindhupalchok
+230108,2301,Bahrabise Municipality,23,Sindhupalchok
+230201,2302,Balephi Rural Municipality,23,Sindhupalchok
+230202,2302,Balephi Rural Municipality,23,Sindhupalchok
+230203,2302,Balephi Rural Municipality,23,Sindhupalchok
+230204,2302,Balephi Rural Municipality,23,Sindhupalchok
+230205,2302,Balephi Rural Municipality,23,Sindhupalchok
+230206,2302,Balephi Rural Municipality,23,Sindhupalchok
+230207,2302,Balephi Rural Municipality,23,Sindhupalchok
+230208,2302,Balephi Rural Municipality,23,Sindhupalchok
+230209,2302,Balephi Rural Municipality,23,Sindhupalchok
+230301,2303,Bhotekoshi Rural Municipality,23,Sindhupalchok
+230302,2303,Bhotekoshi Rural Municipality,23,Sindhupalchok
+230303,2303,Bhotekoshi Rural Municipality,23,Sindhupalchok
+230304,2303,Bhotekoshi Rural Municipality,23,Sindhupalchok
+230305,2303,Bhotekoshi Rural Municipality,23,Sindhupalchok
+230401,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230402,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230403,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230404,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230405,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230406,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230407,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230408,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230409,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230410,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230411,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230412,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230413,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230414,2304,Choutara Sangachowkgadhi Municipality,23,Sindhupalchok
+230501,2305,Helambu Rural Municipality,23,Sindhupalchok
+230502,2305,Helambu Rural Municipality,23,Sindhupalchok
+230503,2305,Helambu Rural Municipality,23,Sindhupalchok
+230504,2305,Helambu Rural Municipality,23,Sindhupalchok
+230505,2305,Helambu Rural Municipality,23,Sindhupalchok
+230506,2305,Helambu Rural Municipality,23,Sindhupalchok
+230507,2305,Helambu Rural Municipality,23,Sindhupalchok
+230601,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230602,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230603,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230604,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230605,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230606,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230607,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230608,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230609,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230610,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230611,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230612,2306,Indrawoti Rural Municipality,23,Sindhupalchok
+230701,2307,Jugal Rural Municipality,23,Sindhupalchok
+230702,2307,Jugal Rural Municipality,23,Sindhupalchok
+230703,2307,Jugal Rural Municipality,23,Sindhupalchok
+230704,2307,Jugal Rural Municipality,23,Sindhupalchok
+230705,2307,Jugal Rural Municipality,23,Sindhupalchok
+230706,2307,Jugal Rural Municipality,23,Sindhupalchok
+230707,2307,Jugal Rural Municipality,23,Sindhupalchok
+230899,2308,Langtang National Park,23,Sindhupalchok
+230901,2309,Lisankhu Pakhar Rural Municipality,23,Sindhupalchok
+230902,2309,Lisankhu Pakhar Rural Municipality,23,Sindhupalchok
+230903,2309,Lisankhu Pakhar Rural Municipality,23,Sindhupalchok
+230904,2309,Lisankhu Pakhar Rural Municipality,23,Sindhupalchok
+230905,2309,Lisankhu Pakhar Rural Municipality,23,Sindhupalchok
+230906,2309,Lisankhu Pakhar Rural Municipality,23,Sindhupalchok
+230907,2309,Lisankhu Pakhar Rural Municipality,23,Sindhupalchok
+231001,2310,Melanchi Municipality,23,Sindhupalchok
+231002,2310,Melanchi Municipality,23,Sindhupalchok
+231003,2310,Melanchi Municipality,23,Sindhupalchok
+231004,2310,Melanchi Municipality,23,Sindhupalchok
+231005,2310,Melanchi Municipality,23,Sindhupalchok
+231006,2310,Melanchi Municipality,23,Sindhupalchok
+231007,2310,Melanchi Municipality,23,Sindhupalchok
+231008,2310,Melanchi Municipality,23,Sindhupalchok
+231009,2310,Melanchi Municipality,23,Sindhupalchok
+231010,2310,Melanchi Municipality,23,Sindhupalchok
+231011,2310,Melanchi Municipality,23,Sindhupalchok
+231012,2310,Melanchi Municipality,23,Sindhupalchok
+231013,2310,Melanchi Municipality,23,Sindhupalchok
+231101,2311,Panchpokhari Thangpal Rural Municipality,23,Sindhupalchok
+231102,2311,Panchpokhari Thangpal Rural Municipality,23,Sindhupalchok
+231103,2311,Panchpokhari Thangpal Rural Municipality,23,Sindhupalchok
+231104,2311,Panchpokhari Thangpal Rural Municipality,23,Sindhupalchok
+231105,2311,Panchpokhari Thangpal Rural Municipality,23,Sindhupalchok
+231106,2311,Panchpokhari Thangpal Rural Municipality,23,Sindhupalchok
+231107,2311,Panchpokhari Thangpal Rural Municipality,23,Sindhupalchok
+231108,2311,Panchpokhari Thangpal Rural Municipality,23,Sindhupalchok
+231199,2311,Panchpokhari Thangpal Rural Municipality,23,Sindhupalchok
+231201,2312,Sunkoshi Rural Municipality,23,Sindhupalchok
+231202,2312,Sunkoshi Rural Municipality,23,Sindhupalchok
+231203,2312,Sunkoshi Rural Municipality,23,Sindhupalchok
+231204,2312,Sunkoshi Rural Municipality,23,Sindhupalchok
+231205,2312,Sunkoshi Rural Municipality,23,Sindhupalchok
+231206,2312,Sunkoshi Rural Municipality,23,Sindhupalchok
+231207,2312,Sunkoshi Rural Municipality,23,Sindhupalchok
+231301,2313,Tripurasundari Rural Municipality,23,Sindhupalchok
+231302,2313,Tripurasundari Rural Municipality,23,Sindhupalchok
+231303,2313,Tripurasundari Rural Municipality,23,Sindhupalchok
+231304,2313,Tripurasundari Rural Municipality,23,Sindhupalchok
+231305,2313,Tripurasundari Rural Municipality,23,Sindhupalchok
+231306,2313,Tripurasundari Rural Municipality,23,Sindhupalchok
+240101,2401,Banepa Municipality,24,Kavrepalanchok
+240102,2401,Banepa Municipality,24,Kavrepalanchok
+240103,2401,Banepa Municipality,24,Kavrepalanchok
+240104,2401,Banepa Municipality,24,Kavrepalanchok
+240105,2401,Banepa Municipality,24,Kavrepalanchok
+240106,2401,Banepa Municipality,24,Kavrepalanchok
+240107,2401,Banepa Municipality,24,Kavrepalanchok
+240108,2401,Banepa Municipality,24,Kavrepalanchok
+240109,2401,Banepa Municipality,24,Kavrepalanchok
+240110,2401,Banepa Municipality,24,Kavrepalanchok
+240111,2401,Banepa Municipality,24,Kavrepalanchok
+240112,2401,Banepa Municipality,24,Kavrepalanchok
+240113,2401,Banepa Municipality,24,Kavrepalanchok
+240114,2401,Banepa Municipality,24,Kavrepalanchok
+240201,2402,Bethanchowk Rural Municipality,24,Kavrepalanchok
+240202,2402,Bethanchowk Rural Municipality,24,Kavrepalanchok
+240203,2402,Bethanchowk Rural Municipality,24,Kavrepalanchok
+240204,2402,Bethanchowk Rural Municipality,24,Kavrepalanchok
+240205,2402,Bethanchowk Rural Municipality,24,Kavrepalanchok
+240206,2402,Bethanchowk Rural Municipality,24,Kavrepalanchok
+240301,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240302,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240303,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240304,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240305,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240306,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240307,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240308,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240309,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240310,2403,Bhumlu Rural Municipality,24,Kavrepalanchok
+240401,2404,Chauri Deurali Rural Municipality,24,Kavrepalanchok
+240402,2404,Chauri Deurali Rural Municipality,24,Kavrepalanchok
+240403,2404,Chauri Deurali Rural Municipality,24,Kavrepalanchok
+240404,2404,Chauri Deurali Rural Municipality,24,Kavrepalanchok
+240405,2404,Chauri Deurali Rural Municipality,24,Kavrepalanchok
+240406,2404,Chauri Deurali Rural Municipality,24,Kavrepalanchok
+240407,2404,Chauri Deurali Rural Municipality,24,Kavrepalanchok
+240408,2404,Chauri Deurali Rural Municipality,24,Kavrepalanchok
+240409,2404,Chauri Deurali Rural Municipality,24,Kavrepalanchok
+240501,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240502,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240503,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240504,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240505,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240506,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240507,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240508,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240509,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240510,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240511,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240512,2405,Dhulikhel Municipality,24,Kavrepalanchok
+240601,2406,Khanikhola Rural Municipality,24,Kavrepalanchok
+240602,2406,Khanikhola Rural Municipality,24,Kavrepalanchok
+240603,2406,Khanikhola Rural Municipality,24,Kavrepalanchok
+240604,2406,Khanikhola Rural Municipality,24,Kavrepalanchok
+240605,2406,Khanikhola Rural Municipality,24,Kavrepalanchok
+240606,2406,Khanikhola Rural Municipality,24,Kavrepalanchok
+240607,2406,Khanikhola Rural Municipality,24,Kavrepalanchok
+240701,2407,Mahabharat Rural Municipality,24,Kavrepalanchok
+240702,2407,Mahabharat Rural Municipality,24,Kavrepalanchok
+240703,2407,Mahabharat Rural Municipality,24,Kavrepalanchok
+240704,2407,Mahabharat Rural Municipality,24,Kavrepalanchok
+240705,2407,Mahabharat Rural Municipality,24,Kavrepalanchok
+240706,2407,Mahabharat Rural Municipality,24,Kavrepalanchok
+240707,2407,Mahabharat Rural Municipality,24,Kavrepalanchok
+240708,2407,Mahabharat Rural Municipality,24,Kavrepalanchok
+240801,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240802,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240803,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240804,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240805,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240806,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240807,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240808,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240809,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240810,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240811,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240812,2408,Mandan Deupur Municipality,24,Kavrepalanchok
+240901,2409,Namobuddha Municipality,24,Kavrepalanchok
+240902,2409,Namobuddha Municipality,24,Kavrepalanchok
+240903,2409,Namobuddha Municipality,24,Kavrepalanchok
+240904,2409,Namobuddha Municipality,24,Kavrepalanchok
+240905,2409,Namobuddha Municipality,24,Kavrepalanchok
+240906,2409,Namobuddha Municipality,24,Kavrepalanchok
+240907,2409,Namobuddha Municipality,24,Kavrepalanchok
+240908,2409,Namobuddha Municipality,24,Kavrepalanchok
+240909,2409,Namobuddha Municipality,24,Kavrepalanchok
+240910,2409,Namobuddha Municipality,24,Kavrepalanchok
+240911,2409,Namobuddha Municipality,24,Kavrepalanchok
+241001,2410,Panauti Municipality,24,Kavrepalanchok
+241002,2410,Panauti Municipality,24,Kavrepalanchok
+241003,2410,Panauti Municipality,24,Kavrepalanchok
+241004,2410,Panauti Municipality,24,Kavrepalanchok
+241005,2410,Panauti Municipality,24,Kavrepalanchok
+241006,2410,Panauti Municipality,24,Kavrepalanchok
+241007,2410,Panauti Municipality,24,Kavrepalanchok
+241008,2410,Panauti Municipality,24,Kavrepalanchok
+241009,2410,Panauti Municipality,24,Kavrepalanchok
+241010,2410,Panauti Municipality,24,Kavrepalanchok
+241011,2410,Panauti Municipality,24,Kavrepalanchok
+241012,2410,Panauti Municipality,24,Kavrepalanchok
+241101,2411,Panchkhal Municipality,24,Kavrepalanchok
+241102,2411,Panchkhal Municipality,24,Kavrepalanchok
+241103,2411,Panchkhal Municipality,24,Kavrepalanchok
+241104,2411,Panchkhal Municipality,24,Kavrepalanchok
+241105,2411,Panchkhal Municipality,24,Kavrepalanchok
+241106,2411,Panchkhal Municipality,24,Kavrepalanchok
+241107,2411,Panchkhal Municipality,24,Kavrepalanchok
+241108,2411,Panchkhal Municipality,24,Kavrepalanchok
+241109,2411,Panchkhal Municipality,24,Kavrepalanchok
+241110,2411,Panchkhal Municipality,24,Kavrepalanchok
+241111,2411,Panchkhal Municipality,24,Kavrepalanchok
+241112,2411,Panchkhal Municipality,24,Kavrepalanchok
+241113,2411,Panchkhal Municipality,24,Kavrepalanchok
+241201,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241202,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241203,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241204,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241205,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241206,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241207,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241208,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241209,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241210,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241211,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241212,2412,Roshi Rural Municipality,24,Kavrepalanchok
+241301,2413,Temal Rural Municipality,24,Kavrepalanchok
+241302,2413,Temal Rural Municipality,24,Kavrepalanchok
+241303,2413,Temal Rural Municipality,24,Kavrepalanchok
+241304,2413,Temal Rural Municipality,24,Kavrepalanchok
+241305,2413,Temal Rural Municipality,24,Kavrepalanchok
+241306,2413,Temal Rural Municipality,24,Kavrepalanchok
+241307,2413,Temal Rural Municipality,24,Kavrepalanchok
+241308,2413,Temal Rural Municipality,24,Kavrepalanchok
+241309,2413,Temal Rural Municipality,24,Kavrepalanchok
+280101,2801,Belkotgadhi Municipality,28,Nuwakot
+280102,2801,Belkotgadhi Municipality,28,Nuwakot
+280103,2801,Belkotgadhi Municipality,28,Nuwakot
+280104,2801,Belkotgadhi Municipality,28,Nuwakot
+280105,2801,Belkotgadhi Municipality,28,Nuwakot
+280106,2801,Belkotgadhi Municipality,28,Nuwakot
+280107,2801,Belkotgadhi Municipality,28,Nuwakot
+280108,2801,Belkotgadhi Municipality,28,Nuwakot
+280109,2801,Belkotgadhi Municipality,28,Nuwakot
+280110,2801,Belkotgadhi Municipality,28,Nuwakot
+280111,2801,Belkotgadhi Municipality,28,Nuwakot
+280112,2801,Belkotgadhi Municipality,28,Nuwakot
+280113,2801,Belkotgadhi Municipality,28,Nuwakot
+280201,2802,Bidur Municipality,28,Nuwakot
+280202,2802,Bidur Municipality,28,Nuwakot
+280203,2802,Bidur Municipality,28,Nuwakot
+280204,2802,Bidur Municipality,28,Nuwakot
+280205,2802,Bidur Municipality,28,Nuwakot
+280206,2802,Bidur Municipality,28,Nuwakot
+280207,2802,Bidur Municipality,28,Nuwakot
+280208,2802,Bidur Municipality,28,Nuwakot
+280209,2802,Bidur Municipality,28,Nuwakot
+280210,2802,Bidur Municipality,28,Nuwakot
+280211,2802,Bidur Municipality,28,Nuwakot
+280212,2802,Bidur Municipality,28,Nuwakot
+280213,2802,Bidur Municipality,28,Nuwakot
+280301,2803,Dupcheshwor Rural Municipality,28,Nuwakot
+280302,2803,Dupcheshwor Rural Municipality,28,Nuwakot
+280303,2803,Dupcheshwor Rural Municipality,28,Nuwakot
+280304,2803,Dupcheshwor Rural Municipality,28,Nuwakot
+280305,2803,Dupcheshwor Rural Municipality,28,Nuwakot
+280306,2803,Dupcheshwor Rural Municipality,28,Nuwakot
+280307,2803,Dupcheshwor Rural Municipality,28,Nuwakot
+280401,2804,Kakani Rural Municipality,28,Nuwakot
+280402,2804,Kakani Rural Municipality,28,Nuwakot
+280403,2804,Kakani Rural Municipality,28,Nuwakot
+280404,2804,Kakani Rural Municipality,28,Nuwakot
+280405,2804,Kakani Rural Municipality,28,Nuwakot
+280406,2804,Kakani Rural Municipality,28,Nuwakot
+280407,2804,Kakani Rural Municipality,28,Nuwakot
+280408,2804,Kakani Rural Municipality,28,Nuwakot
+280501,2805,Kispang Rural Municipality,28,Nuwakot
+280502,2805,Kispang Rural Municipality,28,Nuwakot
+280503,2805,Kispang Rural Municipality,28,Nuwakot
+280504,2805,Kispang Rural Municipality,28,Nuwakot
+280505,2805,Kispang Rural Municipality,28,Nuwakot
+280699,2806,Langtang National Park,28,Nuwakot
+280701,2807,Likhu Rural Municipality,28,Nuwakot
+280702,2807,Likhu Rural Municipality,28,Nuwakot
+280703,2807,Likhu Rural Municipality,28,Nuwakot
+280704,2807,Likhu Rural Municipality,28,Nuwakot
+280705,2807,Likhu Rural Municipality,28,Nuwakot
+280706,2807,Likhu Rural Municipality,28,Nuwakot
+280801,2808,Myagang Rural Municipality,28,Nuwakot
+280802,2808,Myagang Rural Municipality,28,Nuwakot
+280803,2808,Myagang Rural Municipality,28,Nuwakot
+280804,2808,Myagang Rural Municipality,28,Nuwakot
+280805,2808,Myagang Rural Municipality,28,Nuwakot
+280806,2808,Myagang Rural Municipality,28,Nuwakot
+280901,2809,Panchakanya Rural Municipality,28,Nuwakot
+280902,2809,Panchakanya Rural Municipality,28,Nuwakot
+280903,2809,Panchakanya Rural Municipality,28,Nuwakot
+280904,2809,Panchakanya Rural Municipality,28,Nuwakot
+280905,2809,Panchakanya Rural Municipality,28,Nuwakot
+281001,2810,Shivapuri Rural Municipality,28,Nuwakot
+281002,2810,Shivapuri Rural Municipality,28,Nuwakot
+281003,2810,Shivapuri Rural Municipality,28,Nuwakot
+281004,2810,Shivapuri Rural Municipality,28,Nuwakot
+281005,2810,Shivapuri Rural Municipality,28,Nuwakot
+281006,2810,Shivapuri Rural Municipality,28,Nuwakot
+281007,2810,Shivapuri Rural Municipality,28,Nuwakot
+281008,2810,Shivapuri Rural Municipality,28,Nuwakot
+281101,2811,Suryagadhi Rural Municipality,28,Nuwakot
+281102,2811,Suryagadhi Rural Municipality,28,Nuwakot
+281103,2811,Suryagadhi Rural Municipality,28,Nuwakot
+281104,2811,Suryagadhi Rural Municipality,28,Nuwakot
+281105,2811,Suryagadhi Rural Municipality,28,Nuwakot
+281201,2812,Tadi Rural Municipality,28,Nuwakot
+281202,2812,Tadi Rural Municipality,28,Nuwakot
+281203,2812,Tadi Rural Municipality,28,Nuwakot
+281204,2812,Tadi Rural Municipality,28,Nuwakot
+281205,2812,Tadi Rural Municipality,28,Nuwakot
+281206,2812,Tadi Rural Municipality,28,Nuwakot
+281301,2813,Tarakeshwor Rural Municipality,28,Nuwakot
+281302,2813,Tarakeshwor Rural Municipality,28,Nuwakot
+281303,2813,Tarakeshwor Rural Municipality,28,Nuwakot
+281304,2813,Tarakeshwor Rural Municipality,28,Nuwakot
+281305,2813,Tarakeshwor Rural Municipality,28,Nuwakot
+281306,2813,Tarakeshwor Rural Municipality,28,Nuwakot
+290101,2901,Aamachhodingmo Rural Municipality,29,Rasuwa
+290102,2901,Aamachhodingmo Rural Municipality,29,Rasuwa
+290103,2901,Aamachhodingmo Rural Municipality,29,Rasuwa
+290104,2901,Aamachhodingmo Rural Municipality,29,Rasuwa
+290105,2901,Aamachhodingmo Rural Municipality,29,Rasuwa
+290201,2902,Gosaikunda Rural Municipality,29,Rasuwa
+290202,2902,Gosaikunda Rural Municipality,29,Rasuwa
+290203,2902,Gosaikunda Rural Municipality,29,Rasuwa
+290204,2902,Gosaikunda Rural Municipality,29,Rasuwa
+290205,2902,Gosaikunda Rural Municipality,29,Rasuwa
+290206,2902,Gosaikunda Rural Municipality,29,Rasuwa
+290301,2903,Kalika Rural Municipality,29,Rasuwa
+290302,2903,Kalika Rural Municipality,29,Rasuwa
+290303,2903,Kalika Rural Municipality,29,Rasuwa
+290304,2903,Kalika Rural Municipality,29,Rasuwa
+290305,2903,Kalika Rural Municipality,29,Rasuwa
+290401,2904,Naukunda Rural Municipality,29,Rasuwa
+290402,2904,Naukunda Rural Municipality,29,Rasuwa
+290403,2904,Naukunda Rural Municipality,29,Rasuwa
+290404,2904,Naukunda Rural Municipality,29,Rasuwa
+290405,2904,Naukunda Rural Municipality,29,Rasuwa
+290406,2904,Naukunda Rural Municipality,29,Rasuwa
+290501,2905,Uttargaya Rural Municipality,29,Rasuwa
+290502,2905,Uttargaya Rural Municipality,29,Rasuwa
+290503,2905,Uttargaya Rural Municipality,29,Rasuwa
+290504,2905,Uttargaya Rural Municipality,29,Rasuwa
+290505,2905,Uttargaya Rural Municipality,29,Rasuwa
+300101,3001,Benighat Rorang Rural Municipality,30,Dhading
+300102,3001,Benighat Rorang Rural Municipality,30,Dhading
+300103,3001,Benighat Rorang Rural Municipality,30,Dhading
+300104,3001,Benighat Rorang Rural Municipality,30,Dhading
+300105,3001,Benighat Rorang Rural Municipality,30,Dhading
+300106,3001,Benighat Rorang Rural Municipality,30,Dhading
+300107,3001,Benighat Rorang Rural Municipality,30,Dhading
+300108,3001,Benighat Rorang Rural Municipality,30,Dhading
+300109,3001,Benighat Rorang Rural Municipality,30,Dhading
+300110,3001,Benighat Rorang Rural Municipality,30,Dhading
+300201,3002,Dhunibenshi Municipality,30,Dhading
+300202,3002,Dhunibenshi Municipality,30,Dhading
+300203,3002,Dhunibenshi Municipality,30,Dhading
+300204,3002,Dhunibenshi Municipality,30,Dhading
+300205,3002,Dhunibenshi Municipality,30,Dhading
+300206,3002,Dhunibenshi Municipality,30,Dhading
+300207,3002,Dhunibenshi Municipality,30,Dhading
+300208,3002,Dhunibenshi Municipality,30,Dhading
+300209,3002,Dhunibenshi Municipality,30,Dhading
+300301,3003,Gajuri Rural Municipality,30,Dhading
+300302,3003,Gajuri Rural Municipality,30,Dhading
+300303,3003,Gajuri Rural Municipality,30,Dhading
+300304,3003,Gajuri Rural Municipality,30,Dhading
+300305,3003,Gajuri Rural Municipality,30,Dhading
+300306,3003,Gajuri Rural Municipality,30,Dhading
+300307,3003,Gajuri Rural Municipality,30,Dhading
+300308,3003,Gajuri Rural Municipality,30,Dhading
+300401,3004,Galchhi Rural Municipality,30,Dhading
+300402,3004,Galchhi Rural Municipality,30,Dhading
+300403,3004,Galchhi Rural Municipality,30,Dhading
+300404,3004,Galchhi Rural Municipality,30,Dhading
+300405,3004,Galchhi Rural Municipality,30,Dhading
+300406,3004,Galchhi Rural Municipality,30,Dhading
+300407,3004,Galchhi Rural Municipality,30,Dhading
+300408,3004,Galchhi Rural Municipality,30,Dhading
+300501,3005,Ganga Jamuna Rural Municipality,30,Dhading
+300502,3005,Ganga Jamuna Rural Municipality,30,Dhading
+300503,3005,Ganga Jamuna Rural Municipality,30,Dhading
+300504,3005,Ganga Jamuna Rural Municipality,30,Dhading
+300505,3005,Ganga Jamuna Rural Municipality,30,Dhading
+300506,3005,Ganga Jamuna Rural Municipality,30,Dhading
+300507,3005,Ganga Jamuna Rural Municipality,30,Dhading
+300601,3006,Jwalamukhi Rural Municipality,30,Dhading
+300602,3006,Jwalamukhi Rural Municipality,30,Dhading
+300603,3006,Jwalamukhi Rural Municipality,30,Dhading
+300604,3006,Jwalamukhi Rural Municipality,30,Dhading
+300605,3006,Jwalamukhi Rural Municipality,30,Dhading
+300606,3006,Jwalamukhi Rural Municipality,30,Dhading
+300607,3006,Jwalamukhi Rural Municipality,30,Dhading
+300701,3007,Khaniyabas Rural Municipality,30,Dhading
+300702,3007,Khaniyabas Rural Municipality,30,Dhading
+300703,3007,Khaniyabas Rural Municipality,30,Dhading
+300704,3007,Khaniyabas Rural Municipality,30,Dhading
+300705,3007,Khaniyabas Rural Municipality,30,Dhading
+300801,3008,Netrawati Dabajong Rural Municipality,30,Dhading
+300802,3008,Netrawati Dabajong Rural Municipality,30,Dhading
+300803,3008,Netrawati Dabajong Rural Municipality,30,Dhading
+300804,3008,Netrawati Dabajong Rural Municipality,30,Dhading
+300805,3008,Netrawati Dabajong Rural Municipality,30,Dhading
+300901,3009,Neelakantha Municipality,30,Dhading
+300902,3009,Neelakantha Municipality,30,Dhading
+300903,3009,Neelakantha Municipality,30,Dhading
+300904,3009,Neelakantha Municipality,30,Dhading
+300905,3009,Neelakantha Municipality,30,Dhading
+300906,3009,Neelakantha Municipality,30,Dhading
+300907,3009,Neelakantha Municipality,30,Dhading
+300908,3009,Neelakantha Municipality,30,Dhading
+300909,3009,Neelakantha Municipality,30,Dhading
+300910,3009,Neelakantha Municipality,30,Dhading
+300911,3009,Neelakantha Municipality,30,Dhading
+300912,3009,Neelakantha Municipality,30,Dhading
+300913,3009,Neelakantha Municipality,30,Dhading
+300914,3009,Neelakantha Municipality,30,Dhading
+301001,3010,Rubi Valley Rural Municipality,30,Dhading
+301002,3010,Rubi Valley Rural Municipality,30,Dhading
+301003,3010,Rubi Valley Rural Municipality,30,Dhading
+301004,3010,Rubi Valley Rural Municipality,30,Dhading
+301005,3010,Rubi Valley Rural Municipality,30,Dhading
+301006,3010,Rubi Valley Rural Municipality,30,Dhading
+301101,3011,Siddhalek Rural Municipality,30,Dhading
+301102,3011,Siddhalek Rural Municipality,30,Dhading
+301103,3011,Siddhalek Rural Municipality,30,Dhading
+301104,3011,Siddhalek Rural Municipality,30,Dhading
+301105,3011,Siddhalek Rural Municipality,30,Dhading
+301106,3011,Siddhalek Rural Municipality,30,Dhading
+301107,3011,Siddhalek Rural Municipality,30,Dhading
+301201,3012,Thakre Rural Municipality,30,Dhading
+301202,3012,Thakre Rural Municipality,30,Dhading
+301203,3012,Thakre Rural Municipality,30,Dhading
+301204,3012,Thakre Rural Municipality,30,Dhading
+301205,3012,Thakre Rural Municipality,30,Dhading
+301206,3012,Thakre Rural Municipality,30,Dhading
+301207,3012,Thakre Rural Municipality,30,Dhading
+301208,3012,Thakre Rural Municipality,30,Dhading
+301209,3012,Thakre Rural Municipality,30,Dhading
+301210,3012,Thakre Rural Municipality,30,Dhading
+301211,3012,Thakre Rural Municipality,30,Dhading
+301301,3013,Tripurasundari Rural Municipality,30,Dhading
+301302,3013,Tripurasundari Rural Municipality,30,Dhading
+301303,3013,Tripurasundari Rural Municipality,30,Dhading
+301304,3013,Tripurasundari Rural Municipality,30,Dhading
+301305,3013,Tripurasundari Rural Municipality,30,Dhading
+301306,3013,Tripurasundari Rural Municipality,30,Dhading
+301307,3013,Tripurasundari Rural Municipality,30,Dhading
+310101,3101,Bagmati Rural Municipality,31,Makwanpur
+310102,3101,Bagmati Rural Municipality,31,Makwanpur
+310103,3101,Bagmati Rural Municipality,31,Makwanpur
+310104,3101,Bagmati Rural Municipality,31,Makwanpur
+310105,3101,Bagmati Rural Municipality,31,Makwanpur
+310106,3101,Bagmati Rural Municipality,31,Makwanpur
+310107,3101,Bagmati Rural Municipality,31,Makwanpur
+310108,3101,Bagmati Rural Municipality,31,Makwanpur
+310109,3101,Bagmati Rural Municipality,31,Makwanpur
+310201,3102,Bakaiya Rural Municipality,31,Makwanpur
+310202,3102,Bakaiya Rural Municipality,31,Makwanpur
+310203,3102,Bakaiya Rural Municipality,31,Makwanpur
+310204,3102,Bakaiya Rural Municipality,31,Makwanpur
+310205,3102,Bakaiya Rural Municipality,31,Makwanpur
+310206,3102,Bakaiya Rural Municipality,31,Makwanpur
+310207,3102,Bakaiya Rural Municipality,31,Makwanpur
+310208,3102,Bakaiya Rural Municipality,31,Makwanpur
+310209,3102,Bakaiya Rural Municipality,31,Makwanpur
+310210,3102,Bakaiya Rural Municipality,31,Makwanpur
+310211,3102,Bakaiya Rural Municipality,31,Makwanpur
+310212,3102,Bakaiya Rural Municipality,31,Makwanpur
+310301,3103,Bhimphedi Rural Municipality,31,Makwanpur
+310302,3103,Bhimphedi Rural Municipality,31,Makwanpur
+310303,3103,Bhimphedi Rural Municipality,31,Makwanpur
+310304,3103,Bhimphedi Rural Municipality,31,Makwanpur
+310305,3103,Bhimphedi Rural Municipality,31,Makwanpur
+310306,3103,Bhimphedi Rural Municipality,31,Makwanpur
+310307,3103,Bhimphedi Rural Municipality,31,Makwanpur
+310308,3103,Bhimphedi Rural Municipality,31,Makwanpur
+310309,3103,Bhimphedi Rural Municipality,31,Makwanpur
+310401,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310402,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310403,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310404,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310405,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310406,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310407,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310408,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310409,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310410,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310411,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310412,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310413,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310414,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310415,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310416,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310417,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310418,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310419,3104,Hetauda Sub-Metropolitian City,31,Makwanpur
+310501,3105,Indrasarowar Rural Municipality,31,Makwanpur
+310502,3105,Indrasarowar Rural Municipality,31,Makwanpur
+310503,3105,Indrasarowar Rural Municipality,31,Makwanpur
+310504,3105,Indrasarowar Rural Municipality,31,Makwanpur
+310505,3105,Indrasarowar Rural Municipality,31,Makwanpur
+310601,3106,Kailash Rural Municipality,31,Makwanpur
+310602,3106,Kailash Rural Municipality,31,Makwanpur
+310603,3106,Kailash Rural Municipality,31,Makwanpur
+310604,3106,Kailash Rural Municipality,31,Makwanpur
+310605,3106,Kailash Rural Municipality,31,Makwanpur
+310606,3106,Kailash Rural Municipality,31,Makwanpur
+310607,3106,Kailash Rural Municipality,31,Makwanpur
+310608,3106,Kailash Rural Municipality,31,Makwanpur
+310609,3106,Kailash Rural Municipality,31,Makwanpur
+310610,3106,Kailash Rural Municipality,31,Makwanpur
+310701,3107,Makawanpurgadhi Rural Municipality,31,Makwanpur
+310702,3107,Makawanpurgadhi Rural Municipality,31,Makwanpur
+310703,3107,Makawanpurgadhi Rural Municipality,31,Makwanpur
+310704,3107,Makawanpurgadhi Rural Municipality,31,Makwanpur
+310705,3107,Makawanpurgadhi Rural Municipality,31,Makwanpur
+310706,3107,Makawanpurgadhi Rural Municipality,31,Makwanpur
+310707,3107,Makawanpurgadhi Rural Municipality,31,Makwanpur
+310708,3107,Makawanpurgadhi Rural Municipality,31,Makwanpur
+310801,3108,Manahari Rural Municipality,31,Makwanpur
+310802,3108,Manahari Rural Municipality,31,Makwanpur
+310803,3108,Manahari Rural Municipality,31,Makwanpur
+310804,3108,Manahari Rural Municipality,31,Makwanpur
+310805,3108,Manahari Rural Municipality,31,Makwanpur
+310806,3108,Manahari Rural Municipality,31,Makwanpur
+310807,3108,Manahari Rural Municipality,31,Makwanpur
+310808,3108,Manahari Rural Municipality,31,Makwanpur
+310809,3108,Manahari Rural Municipality,31,Makwanpur
+310999,3109,Parsa Wild Life Reserve,31,Makwanpur
+311001,3110,Raksirang Rural Municipality,31,Makwanpur
+311002,3110,Raksirang Rural Municipality,31,Makwanpur
+311003,3110,Raksirang Rural Municipality,31,Makwanpur
+311004,3110,Raksirang Rural Municipality,31,Makwanpur
+311005,3110,Raksirang Rural Municipality,31,Makwanpur
+311006,3110,Raksirang Rural Municipality,31,Makwanpur
+311007,3110,Raksirang Rural Municipality,31,Makwanpur
+311008,3110,Raksirang Rural Municipality,31,Makwanpur
+311009,3110,Raksirang Rural Municipality,31,Makwanpur
+311101,3111,Thaha Municipality,31,Makwanpur
+311102,3111,Thaha Municipality,31,Makwanpur
+311103,3111,Thaha Municipality,31,Makwanpur
+311104,3111,Thaha Municipality,31,Makwanpur
+311105,3111,Thaha Municipality,31,Makwanpur
+311106,3111,Thaha Municipality,31,Makwanpur
+311107,3111,Thaha Municipality,31,Makwanpur
+311108,3111,Thaha Municipality,31,Makwanpur
+311109,3111,Thaha Municipality,31,Makwanpur
+311110,3111,Thaha Municipality,31,Makwanpur
+311111,3111,Thaha Municipality,31,Makwanpur
+311112,3111,Thaha Municipality,31,Makwanpur
+360101,3601,Aarughat Rural Municipality,36,Gorkha
+360102,3601,Aarughat Rural Municipality,36,Gorkha
+360103,3601,Aarughat Rural Municipality,36,Gorkha
+360104,3601,Aarughat Rural Municipality,36,Gorkha
+360105,3601,Aarughat Rural Municipality,36,Gorkha
+360106,3601,Aarughat Rural Municipality,36,Gorkha
+360107,3601,Aarughat Rural Municipality,36,Gorkha
+360108,3601,Aarughat Rural Municipality,36,Gorkha
+360109,3601,Aarughat Rural Municipality,36,Gorkha
+360110,3601,Aarughat Rural Municipality,36,Gorkha
+360201,3602,Ajirkot Rural Municipality,36,Gorkha
+360202,3602,Ajirkot Rural Municipality,36,Gorkha
+360203,3602,Ajirkot Rural Municipality,36,Gorkha
+360204,3602,Ajirkot Rural Municipality,36,Gorkha
+360205,3602,Ajirkot Rural Municipality,36,Gorkha
+360301,3603,Barpak Sulikot Rural Municipality,36,Gorkha
+360302,3603,Barpak Sulikot Rural Municipality,36,Gorkha
+360303,3603,Barpak Sulikot Rural Municipality,36,Gorkha
+360304,3603,Barpak Sulikot Rural Municipality,36,Gorkha
+360305,3603,Barpak Sulikot Rural Municipality,36,Gorkha
+360306,3603,Barpak Sulikot Rural Municipality,36,Gorkha
+360307,3603,Barpak Sulikot Rural Municipality,36,Gorkha
+360308,3603,Barpak Sulikot Rural Municipality,36,Gorkha
+360401,3604,Bhimsen Thapa Rural Municipality,36,Gorkha
+360402,3604,Bhimsen Thapa Rural Municipality,36,Gorkha
+360403,3604,Bhimsen Thapa Rural Municipality,36,Gorkha
+360404,3604,Bhimsen Thapa Rural Municipality,36,Gorkha
+360405,3604,Bhimsen Thapa Rural Municipality,36,Gorkha
+360406,3604,Bhimsen Thapa Rural Municipality,36,Gorkha
+360407,3604,Bhimsen Thapa Rural Municipality,36,Gorkha
+360408,3604,Bhimsen Thapa Rural Municipality,36,Gorkha
+360501,3605,Chumanubri Rural Municipality,36,Gorkha
+360502,3605,Chumanubri Rural Municipality,36,Gorkha
+360503,3605,Chumanubri Rural Municipality,36,Gorkha
+360504,3605,Chumanubri Rural Municipality,36,Gorkha
+360505,3605,Chumanubri Rural Municipality,36,Gorkha
+360506,3605,Chumanubri Rural Municipality,36,Gorkha
+360507,3605,Chumanubri Rural Municipality,36,Gorkha
+360601,3606,Dharche Rural Municipality,36,Gorkha
+360602,3606,Dharche Rural Municipality,36,Gorkha
+360603,3606,Dharche Rural Municipality,36,Gorkha
+360604,3606,Dharche Rural Municipality,36,Gorkha
+360605,3606,Dharche Rural Municipality,36,Gorkha
+360606,3606,Dharche Rural Municipality,36,Gorkha
+360607,3606,Dharche Rural Municipality,36,Gorkha
+360701,3607,Gandaki Rural Municipality,36,Gorkha
+360702,3607,Gandaki Rural Municipality,36,Gorkha
+360703,3607,Gandaki Rural Municipality,36,Gorkha
+360704,3607,Gandaki Rural Municipality,36,Gorkha
+360705,3607,Gandaki Rural Municipality,36,Gorkha
+360706,3607,Gandaki Rural Municipality,36,Gorkha
+360707,3607,Gandaki Rural Municipality,36,Gorkha
+360708,3607,Gandaki Rural Municipality,36,Gorkha
+360801,3608,Gorkha Municipality,36,Gorkha
+360802,3608,Gorkha Municipality,36,Gorkha
+360803,3608,Gorkha Municipality,36,Gorkha
+360804,3608,Gorkha Municipality,36,Gorkha
+360805,3608,Gorkha Municipality,36,Gorkha
+360806,3608,Gorkha Municipality,36,Gorkha
+360807,3608,Gorkha Municipality,36,Gorkha
+360808,3608,Gorkha Municipality,36,Gorkha
+360809,3608,Gorkha Municipality,36,Gorkha
+360810,3608,Gorkha Municipality,36,Gorkha
+360811,3608,Gorkha Municipality,36,Gorkha
+360812,3608,Gorkha Municipality,36,Gorkha
+360813,3608,Gorkha Municipality,36,Gorkha
+360814,3608,Gorkha Municipality,36,Gorkha
+360901,3609,Palungtar Municipality,36,Gorkha
+360902,3609,Palungtar Municipality,36,Gorkha
+360903,3609,Palungtar Municipality,36,Gorkha
+360904,3609,Palungtar Municipality,36,Gorkha
+360905,3609,Palungtar Municipality,36,Gorkha
+360906,3609,Palungtar Municipality,36,Gorkha
+360907,3609,Palungtar Municipality,36,Gorkha
+360908,3609,Palungtar Municipality,36,Gorkha
+360909,3609,Palungtar Municipality,36,Gorkha
+360910,3609,Palungtar Municipality,36,Gorkha
+361001,3610,Shahid Lakhan Rural Municipality,36,Gorkha
+361002,3610,Shahid Lakhan Rural Municipality,36,Gorkha
+361003,3610,Shahid Lakhan Rural Municipality,36,Gorkha
+361004,3610,Shahid Lakhan Rural Municipality,36,Gorkha
+361005,3610,Shahid Lakhan Rural Municipality,36,Gorkha
+361006,3610,Shahid Lakhan Rural Municipality,36,Gorkha
+361007,3610,Shahid Lakhan Rural Municipality,36,Gorkha
+361008,3610,Shahid Lakhan Rural Municipality,36,Gorkha
+361009,3610,Shahid Lakhan Rural Municipality,36,Gorkha
+361101,3611,Siranchowk Rural Municipality,36,Gorkha
+361102,3611,Siranchowk Rural Municipality,36,Gorkha
+361103,3611,Siranchowk Rural Municipality,36,Gorkha
+361104,3611,Siranchowk Rural Municipality,36,Gorkha
+361105,3611,Siranchowk Rural Municipality,36,Gorkha
+361106,3611,Siranchowk Rural Municipality,36,Gorkha
+361107,3611,Siranchowk Rural Municipality,36,Gorkha
+361108,3611,Siranchowk Rural Municipality,36,Gorkha
